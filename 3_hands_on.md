@@ -110,4 +110,3 @@ finally:
 - Simulate "failure" by purposely raising an error in the middle and see how rollback keeps your data safe and consistent.
 
 You'll see the magic of transactions at work, just like a real-world shopping cart scenario!
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/131462429/09d48bf1-319b-4afc-9a35-f2b16709a164/Copy-of-Lecture-16.pdf)
