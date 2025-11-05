@@ -117,4 +117,4 @@ Order items with two users at the same time to see how the system locks the rele
 
 ***
 
-Try this hands-on, modify the SQL, break things, and experience how transactions protect your shopping cart from chaos. This is your playground to master transactions in the real world.[1]
+Try this hands-on, modify the SQL, break things, and experience how transactions protect your shopping cart from chaos. This is your playground to master transactions in the real world.
